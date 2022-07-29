@@ -1,4 +1,4 @@
-Hi my name is Robert I am a guy who makes testing stuff
+Hi my name is Robert I am a guy who likes to makes stuff for testing, currently working with the NHS
 
 ## Core Programming Languages :collision:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
